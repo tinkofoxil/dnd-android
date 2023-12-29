@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DND</string>
+    <string name="preference_file_key">DNDSharedPreferences</string>
+    <string name="gender_label">Пол</string>
+</resources>
